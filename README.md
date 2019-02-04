@@ -3,7 +3,7 @@
 This example shows how to add reCAPTCHA to your frontend and backend.
 
 ### To run this example: 
-1. clone this repository using `git clone https://github.com/UCI-Chenli-teaching/project3-recaptcha-example.git`
+1. clone this repository using `git clone https://github.com/UCI-Chenli-teaching/2019w-project3-recaptcha-example.git`
 2. open Eclipse -> File -> import -> under "Maven" -> "Existing Maven Projects" -> Click "Next".
 3. For "Root Directory", click "Browse" and select this repository's folder. Click "Finish".
 4. If you haven't done so, get a [reCAPTCHA](https://www.google.com/recaptcha/intro/v3.html) from Google. 
